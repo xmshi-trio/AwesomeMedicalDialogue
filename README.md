@@ -1,2 +1,2 @@
 # AwesomeMedicalDialogue
-Medical dialogue resource summarization.
+This is a medical dialogue resource summarization, which will be updated soon.
